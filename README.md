@@ -1,17 +1,17 @@
-# Nome do meu projeto
+# MoniBank
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto de JavaScript sobre validação de formulários.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Monibank**
+| :label: Tecnologias | JavaScript, HTML e CSS
+| :rocket: URL         | 
+| :fire: Curso     | JavaScript: validando formulários
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![Screenshot_1](https://user-images.githubusercontent.com/91283681/232095116-f00c90d4-76a1-482a-a6df-2ceafe350609.png#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Um projeto simples, mas que adicionou diversos conhecimentos novos em minha mente.
