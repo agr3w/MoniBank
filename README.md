@@ -6,7 +6,7 @@ Projeto de JavaScript sobre validação de formulários.
 | -------------  | --- |
 | :sparkles: Nome        | **Monibank**
 | :label: Tecnologias | JavaScript, HTML e CSS
-| :rocket: URL         | 
+| :rocket: URL         | https://agr3w.github.io/MoniBank/
 | :fire: Curso     | JavaScript: validando formulários
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
